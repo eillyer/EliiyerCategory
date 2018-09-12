@@ -29,3 +29,7 @@ eillyer, 475124896@qq.com
 ## License
 
 EillyerCategory is available under the MIT license. See the LICENSE file for more info.
+
+
+## 注释
+Objective_C基类别，在调用时使基类更有用！（OC的基本分类，调用时使基本类更好用）
