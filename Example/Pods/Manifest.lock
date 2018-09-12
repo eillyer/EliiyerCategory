@@ -1,0 +1,16 @@
+PODS:
+  - EillyerCategory (0.1.0)
+
+DEPENDENCIES:
+  - EillyerCategory (from `../`)
+
+EXTERNAL SOURCES:
+  EillyerCategory:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EillyerCategory: 0c98fa7fd14615444add7d0ab8ebb6a9051b5d58
+
+PODFILE CHECKSUM: 67bbc18d94cdb8d90d336559dd5cd7b2bed11f34
+
+COCOAPODS: 1.6.0.beta.1

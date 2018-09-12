@@ -1,0 +1,6 @@
+framework module EillyerCategory {
+  umbrella header "EillyerCategory-umbrella.h"
+
+  export *
+  module * { export * }
+}

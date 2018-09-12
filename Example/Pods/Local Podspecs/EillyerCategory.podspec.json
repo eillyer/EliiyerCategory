@@ -1,0 +1,22 @@
+{
+  "name": "EillyerCategory",
+  "version": "0.1.0",
+  "summary": "A short description of EillyerCategory.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/eillyer/EillyerCategory",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "eillyer": "475124896@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/eillyer/EillyerCategory.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "EillyerCategory/Classes/**/*"
+}
